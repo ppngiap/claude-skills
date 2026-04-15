@@ -1,0 +1,13 @@
+{
+  "name": "senior-devops",
+  "description": "DevOps",
+  "version": "2.2.0",
+  "author": {
+    "name": "Alireza Rezvani",
+    "url": "https://alirezarezvani.com"
+  },
+  "homepage": "https://github.com/ppngiap/claude-skills/tree/main/engineering-team",
+  "repository": "https://github.com/ppngiap/claude-skills",
+  "license": "MIT",
+  "skills": "./"
+}
