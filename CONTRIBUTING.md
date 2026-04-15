@@ -13,7 +13,7 @@ Thank you for your interest in contributing! This repository is the largest open
 ```bash
 git clone https://github.com/YOUR_USERNAME/claude-skills.git
 cd claude-skills
-git remote add upstream https://github.com/alirezarezvani/claude-skills.git
+git remote add upstream https://github.com/ppngiap/claude-skills.git
 git fetch upstream dev
 git checkout -b feature/my-skill upstream/dev
 ```
@@ -227,8 +227,8 @@ Contributors are credited via:
 
 ## Questions?
 
-- **General:** Open a [discussion](https://github.com/alirezarezvani/claude-skills/discussions)
-- **Bugs:** Use the [issue tracker](https://github.com/alirezarezvani/claude-skills/issues)
+- **General:** Open a [discussion](https://github.com/ppngiap/claude-skills/discussions)
+- **Bugs:** Use the [issue tracker](https://github.com/ppngiap/claude-skills/issues)
 - **Contact:** [alirezarezvani.com](https://alirezarezvani.com)
 
 ---

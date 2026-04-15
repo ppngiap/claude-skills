@@ -96,8 +96,8 @@ If your skill includes a `.claude-plugin/plugin.json`, use this **exact schema**
     "name": "Alireza Rezvani",
     "url": "https://alirezarezvani.com"
   },
-  "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/<domain>/<skill>",
-  "repository": "https://github.com/alirezarezvani/claude-skills",
+  "homepage": "https://github.com/ppngiap/claude-skills/tree/ppngiap/<domain>/<skill>",
+  "repository": "https://github.com/ppngiap/claude-skills",
   "license": "MIT",
   "skills": "./"
 }

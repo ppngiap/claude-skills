@@ -11,7 +11,7 @@ The most comprehensive open-source library of Claude Code skills and agent plugi
 [![Agents](https://img.shields.io/badge/Agents-28-blue?style=for-the-badge)](#agents)
 [![Personas](https://img.shields.io/badge/Personas-3-purple?style=for-the-badge)](#personas)
 [![Commands](https://img.shields.io/badge/Commands-27-orange?style=for-the-badge)](#commands)
-[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge)](https://github.com/alirezarezvani/claude-skills/stargazers)
+[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge)](https://github.com/ppngiap/claude-skills/stargazers)
 [![SkillCheck Validated](https://img.shields.io/badge/SkillCheck-Validated-4c1?style=for-the-badge)](https://getskillcheck.com)
 
 > **5,200+ GitHub stars** — the most comprehensive open-source Claude Code skills & agent plugins library.
@@ -47,7 +47,7 @@ All three work together. See [Orchestration](#orchestration) for how to combine 
 
 ```bash
 # Clone the repository
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ppngiap/claude-skills.git
 cd claude-skills
 
 # Run the setup script
@@ -97,7 +97,7 @@ bash <(curl -s https://raw.githubusercontent.com/alirezarezvani/claude-skills/ma
 ### Manual Installation
 
 ```bash
-git clone https://github.com/alirezarezvani/claude-skills.git
+git clone https://github.com/ppngiap/claude-skills.git
 # Copy any skill folder to ~/.claude/skills/ (Claude Code) or ~/.codex/skills/ (Codex)
 ```
 
@@ -325,8 +325,8 @@ python3 product-team/landing-page-generator/scripts/landing_page_scaffolder.py c
 
 | Project | Description |
 |---------|-------------|
-| [**Claude Code Skills & Agents Factory**](https://github.com/alirezarezvani/claude-code-skills-agents-factory) | Methodology for building skills at scale |
-| [**Claude Code Tresor**](https://github.com/alirezarezvani/claude-code-tresor) | Productivity toolkit with 60+ prompt templates |
+| [**Claude Code Skills & Agents Factory**](https://github.com/ppngiap/claude-code-skills-agents-factory) | Methodology for building skills at scale |
+| [**Claude Code Tresor**](https://github.com/ppngiap/claude-code-tresor) | Productivity toolkit with 60+ prompt templates |
 | [**Product Manager Skills**](https://github.com/Digidai/product-manager-skills) | Senior PM agent with 6 knowledge domains, 12 templates, 30+ frameworks — discovery, strategy, delivery, SaaS metrics, career coaching, AI product craft |
 
 ---
@@ -346,7 +346,7 @@ No. We follow semantic versioning and maintain backward compatibility within pat
 Yes. All 305 Python CLI tools use the standard library only — zero pip installs required. Every script is verified to run with `--help`.
 
 **How do I create my own Claude Code skill?**
-Each skill is a folder with a `SKILL.md` (frontmatter + instructions), optional `scripts/`, `references/`, and `assets/`. See the [Skills & Agents Factory](https://github.com/alirezarezvani/claude-code-skills-agents-factory) for a step-by-step guide.
+Each skill is a folder with a `SKILL.md` (frontmatter + instructions), optional `scripts/`, `references/`, and `assets/`. See the [Skills & Agents Factory](https://github.com/ppngiap/claude-code-skills-agents-factory) for a step-by-step guide.
 
 ---
 

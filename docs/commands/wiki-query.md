@@ -7,7 +7,7 @@ description: "Query the LLM Wiki — reads index.md first, drills into 3-10 rele
 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-console: Slash Command</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/commands/wiki-query.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ppngiap/claude-skills/tree/ppngiap/commands/wiki-query.md">Source</a></span>
 </div>
 
 

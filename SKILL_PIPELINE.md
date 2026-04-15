@@ -157,8 +157,8 @@ skill-name/
   "description": "One-line description",
   "version": "1.0.0",
   "author": "alirezarezvani",
-  "homepage": "https://github.com/alirezarezvani/claude-skills",
-  "repository": "https://github.com/alirezarezvani/claude-skills",
+  "homepage": "https://github.com/ppngiap/claude-skills",
+  "repository": "https://github.com/ppngiap/claude-skills",
   "license": "MIT",
   "skills": "./"
 }

@@ -19,7 +19,7 @@ hide:
 
 [Get Started](getting-started.md){ .md-button .md-button--primary }
 [Browse Skills](skills/){ .md-button }
-[GitHub :fontawesome-brands-github:](https://github.com/alirezarezvani/claude-skills){ .md-button }
+[GitHub :fontawesome-brands-github:](https://github.com/ppngiap/claude-skills){ .md-button }
 
 </div>
 
@@ -270,14 +270,14 @@ hide:
 === "Gemini CLI"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ppngiap/claude-skills.git
     cd claude-skills && ./scripts/gemini-install.sh
     ```
 
 === "Hermes Agent"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ppngiap/claude-skills.git
     cd claude-skills
     python scripts/sync-hermes-skills.py --verbose
     # Skills appear in /skills and /<skill-name> automatically
@@ -286,7 +286,7 @@ hide:
 === "Cursor / Windsurf / Aider"
 
     ```bash
-    git clone https://github.com/alirezarezvani/claude-skills.git
+    git clone https://github.com/ppngiap/claude-skills.git
     cd claude-skills
     ./scripts/convert.sh --tool cursor    # or windsurf, aider
     ./scripts/install.sh --tool cursor --target /path/to/project

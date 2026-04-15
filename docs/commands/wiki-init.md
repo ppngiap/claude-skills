@@ -7,7 +7,7 @@ description: "Bootstrap a fresh LLM Wiki vault with the three-layer structure, s
 
 <div class="page-meta" markdown>
 <span class="meta-badge">:material-console: Slash Command</span>
-<span class="meta-badge">:material-github: <a href="https://github.com/alirezarezvani/claude-skills/tree/main/commands/wiki-init.md">Source</a></span>
+<span class="meta-badge">:material-github: <a href="https://github.com/ppngiap/claude-skills/tree/ppngiap/commands/wiki-init.md">Source</a></span>
 </div>
 
 
